@@ -1,3 +1,5 @@
+![Web capture_12-10-2023_211353_localhost](https://github.com/shripad99/Slot_Machine/assets/89384595/b0bb7028-ff8d-418f-a3d9-ca54ead28a99)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
